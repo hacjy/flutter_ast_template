@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/main_color</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_home_red">@color/colorPrimary</color>
+    <color name="color_find_doctor">#262628</color>
+    <color name="color_light_gray">#ececec</color>
+    <color name="color_gray">#9B9B9B</color>
+    <color name="color_select_doctor_hint">#999999</color>
+    <color name="color_detail">#004DBD</color>
+    <color name="yahei">#333333</color>
+    <color name="color_star">#94795d</color>
+    <color name="color_dialog_bg">#1D1E2C</color>
+    <color name="color_dialog_content">#4A4A4A</color>
+    <color name="color_d8_line">#D8D8D8</color>
+    <color name="color_b8_line">#b8b8b8</color>
+    <color name="color_f8_bg">#F8F8F8</color>
+    <color name="color_f2_bg">#F2F2F2</color>
+    <color name="color_cardno">#FF9500</color>
+    <color name="color_msg_time">#69707F</color>
+    <color name="color_green">#7ED321</color>
+    <color name="color_dark_green">#3FB30F</color>
+    <color name="color_gray_db">#DBDBDD</color>
+    <color name="color_yellow">#FF9500</color>
+    <color name="color_gray_61">#616161</color>
+    <color name="color_gray_b3">#b3b3b3</color>
+    <color name="color_gray_f2">#f2f2f2</color>
+    <color name="color_black_33">#333333</color>
+    <color name="color_black_01">#010101</color>
+    <color name="color_light_white">#f7f8fd</color>
+    <color name="color_line_gray">#979797</color>
+    <color name="color_gray_79">#797979</color>
+    <color name="color_black_0a">#0a0a0a</color>
+    <color name="color_gray_ca">#cacaca</color>
+    <color name="color_gray_cb">#cbcbcb</color>
+    <color name="color_gray_dc">#dcdcdc</color>
+    <color name="color_gray_d0">#d0d0d0</color>
+    <color name="color_fa">#fafafa</color>
+    <color name="color_red">#dc143c</color>
+    <color name="color_light_red">#E23A3A</color>
+    <color name="color_blue">#40a1eb</color>
+    <color name="color_gray_d2">#d2d2d2</color>
+    <color name="color_black_0e">#0f0e0e</color>
+    <color name="color_gray_df">#e0dfdf</color>
+    <color name="color_gray_f4">#f4f4f4</color>
+    <color name="color_gray_ef">#efefef</color>
+    <color name="color_gray_ea">#eaeaea</color>
+    <color name="color_gray_d8">#d8d8d8</color>
+    <color name="color_gray_c8">#c5c6c8</color>
+    <color name="color_gray_81">#818181</color>
+    <color name="color_gray_e2">#e2e2e2</color>
+    <color name="color_gray_a8">#A8A4A4</color>
+    <color name="color_black_2f">#2f2f2f</color>
+    <color name="color_black_bold">#0a090b</color>
+    <color name="color_gray_f7">#F7F8FC</color>
+    <color name="color_gray_97">#979797</color>
+    <color name="color_gray_b7">#B7B5B5</color>
+
+    <color name="dash_line">#ececec</color>
+    <color name="translucent">#01000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_transparent">#50000000</color>
+
+    <color name="boby_click_bg">@color/transparent</color>
+
+    <color name="color_news_notice">#64B0E9</color>
+    <color name="color_news_topic">#FC98AB</color>
+    <color name="color_news_news">#FDC38B</color>
+    <color name="half_main_color">#90CC4464</color>
+    <color name="scan_corner_color">@color/main_color</color>
+
+    <!-- 主色调 -->
+    <color name="main_color">@color/czyy_main_color</color>
+    <!-- 1C7F81-->
+    <color name="czyy_main_color">#1C7F81</color>
+</resources>

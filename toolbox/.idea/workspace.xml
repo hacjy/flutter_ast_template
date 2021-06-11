@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="781430a2-5c6b-47f5-9f62-3d944338eafd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_25" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BaseEntity</find>
+      <find>registerWxApi</find>
+      <find>permission_handler</find>
+      <find>linkStyle</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/log/log.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/log_utils.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/http_api.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/dialog/TipsDialog.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/base_entity.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/ResultEntityManager.dart" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/toolbox.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/dialog/tips_dialog.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/icon_text.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/sheet_top_bar.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/http_util.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/empty_view.dart" />
+        <option value="$PROJECT_DIR$/lib/bean/patient_info_entity.dart" />
+        <option value="$PROJECT_DIR$/lib/bean/metadata_info_entity.dart" />
+        <option value="$PROJECT_DIR$/lib/bean/base_request_info_entity.dart" />
+        <option value="$PROJECT_DIR$/lib/generated/json/base/json_convert_content.dart" />
+        <option value="$PROJECT_DIR$/lib/util/util_import.dart" />
+        <option value="$PROJECT_DIR$/lib/constants/Event.dart" />
+        <option value="$PROJECT_DIR$/lib/constants/event.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/my_easy_loading.dart" />
+        <option value="$PROJECT_DIR$/lib/util/hex_color.dart" />
+        <option value="$PROJECT_DIR$/lib/util/color_utils.dart" />
+        <option value="$PROJECT_DIR$/lib/util/unit8_util.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/UIHelper.java" />
+        <option value="$PROJECT_DIR$/lib/tool/toast.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/pay/pay_manager.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/show_progress.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/show_progress.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/net.dart" />
+        <option value="$PROJECT_DIR$/lib/util/datetime.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/progress_dialog.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/loading_dialog.dart" />
+        <option value="$PROJECT_DIR$/lib/util/system_util.dart" />
+        <option value="$PROJECT_DIR$/lib/util/map_util.dart" />
+        <option value="$PROJECT_DIR$/lib/util/gps_util.dart" />
+        <option value="$PROJECT_DIR$/lib/res/colors.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/location_util.dart" />
+        <option value="$PROJECT_DIR$/lib/constants/constant.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/base_result_entity.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/error_handle.dart" />
+        <option value="$PROJECT_DIR$/lib/util/base_lifecycle_effect.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/simple_app_bar.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/dio_utils.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/tool/app_badge_util.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/login_util.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/ExpandableText.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/login_result_info_entity.dart" />
+        <option value="$PROJECT_DIR$/lib/tool/http/intercept.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
+    <option name="y" value="594" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/widget" />
+    <property name="settings.editor.selected.configurable" value="preferences.SingleFileExecutionConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/tool/http" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/widget" />
+      <recent name="$PROJECT_DIR$/lib/tool" />
+      <recent name="$PROJECT_DIR$/lib/widget/popup" />
+      <recent name="$PROJECT_DIR$/lib/util" />
+      <recent name="$PROJECT_DIR$/assets/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="781430a2-5c6b-47f5-9f62-3d944338eafd" name="Default Changelist" comment="" />
+      <created>1589870437148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589870437148</updated>
+    </task>
+    <task id="LOCAL-00058" summary="设置超时时长">
+      <created>1596633650265</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1596633650266</updated>
+    </task>
+    <task id="LOCAL-00059" summary="设置常量">
+      <created>1596679275747</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1596679275748</updated>
+    </task>
+    <task id="LOCAL-00060" summary="设置常量">
+      <created>1596679383171</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1596679383171</updated>
+    </task>
+    <task id="LOCAL-00061" summary="设置常量">
+      <created>1596716948727</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1596716948728</updated>
+    </task>
+    <task id="LOCAL-00062" summary="添加颜色">
+      <created>1596770392765</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1596770392766</updated>
+    </task>
+    <task id="LOCAL-00063" summary="全局变量">
+      <created>1597047447883</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1597047447883</updated>
+    </task>
+    <task id="LOCAL-00064" summary="dioerror优化">
+      <created>1597133791635</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1597133791635</updated>
+    </task>
+    <task id="LOCAL-00065" summary="&lt;refactor&gt;(界面): 优化tips dialog">
+      <created>1597218994771</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1597218994771</updated>
+    </task>
+    <task id="LOCAL-00066" summary="&lt;fix&gt;(业务逻辑): 添加打电话，复制文本工具类">
+      <created>1597714511023</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1597714511024</updated>
+    </task>
+    <task id="LOCAL-00067" summary="&lt;fix&gt;(业务逻辑): 实现popup window">
+      <created>1597714761794</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1597714761794</updated>
+    </task>
+    <task id="LOCAL-00068" summary="&lt;fix&gt;(业务逻辑): 添加颜色值">
+      <created>1597714958310</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1597714958311</updated>
+    </task>
+    <task id="LOCAL-00069" summary="&lt;fix&gt;(业务逻辑): 地图导航工具类">
+      <created>1598420948393</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1598420948394</updated>
+    </task>
+    <task id="LOCAL-00070" summary="&lt;fix&gt;(业务逻辑): 优化颜色">
+      <created>1598493111437</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1598493111437</updated>
+    </task>
+    <task id="LOCAL-00071" summary="&lt;fix&gt;(业务逻辑): 优化颜色">
+      <created>1598496297443</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1598496297443</updated>
+    </task>
+    <task id="LOCAL-00072" summary="&lt;fix&gt;(业务逻辑): sheettopbar添加右边关闭按钮">
+      <created>1599096672305</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1599096672306</updated>
+    </task>
+    <task id="LOCAL-00073" summary="&lt;fix&gt;(业务逻辑): 解决flutter 1.20.0+移除了DiagnosticableMixin，导致flutter_cupertino_date_picker插件报错：Type 'DiagnosticableMixin' not found.">
+      <created>1599101109728</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1599101109729</updated>
+    </task>
+    <task id="LOCAL-00074" summary="&lt;fix&gt;(业务逻辑): app调小程序的工具类">
+      <created>1599205537811</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1599205537812</updated>
+    </task>
+    <task id="LOCAL-00075" summary="&lt;fix&gt;(业务逻辑): 标题居中设置">
+      <created>1599441659366</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1599441659367</updated>
+    </task>
+    <task id="LOCAL-00076" summary="&lt;fix&gt;(业务逻辑): 是否登录的工具类">
+      <created>1599447520047</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1599447520047</updated>
+    </task>
+    <task id="LOCAL-00077" summary="&lt;fix&gt;(业务逻辑): 400返回detail的逻辑处理">
+      <created>1599449857350</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1599449857350</updated>
+    </task>
+    <task id="LOCAL-00078" summary="&lt;fix&gt;(业务逻辑):scoket连接超时处理">
+      <created>1599533154177</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1599533154177</updated>
+    </task>
+    <task id="LOCAL-00079" summary="feat(工具):折叠文本，保持状态view">
+      <created>1599544898259</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1599544898259</updated>
+    </task>
+    <task id="LOCAL-00080" summary="feat(功能):取消请求">
+      <created>1599547062501</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1599547062502</updated>
+    </task>
+    <task id="LOCAL-00081" summary="fix(逻辑):注释代码">
+      <created>1599548787429</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1599548787430</updated>
+    </task>
+    <task id="LOCAL-00082" summary="fix(逻辑):完善取消请求逻辑；'登录数据无效'特殊处理">
+      <created>1599555723355</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1599555723359</updated>
+    </task>
+    <task id="LOCAL-00083" summary="fix(逻辑):audioplayers版本更新，解决ios报错：缺少初始化参数">
+      <created>1599557009692</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1599557009693</updated>
+    </task>
+    <task id="LOCAL-00084" summary="fix(逻辑):优化appbar标题显示：最多一行，以...结尾">
+      <created>1599709574924</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1599709574924</updated>
+    </task>
+    <task id="LOCAL-00085" summary="fix(逻辑):添加simpleappbar标题点击事件，样式；">
+      <created>1599723337030</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1599723337031</updated>
+    </task>
+    <task id="LOCAL-00086" summary="fix(逻辑):dio请求配置：是否忽略证书">
+      <created>1600323681804</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1600323681804</updated>
+    </task>
+    <task id="LOCAL-00087" summary="fix(逻辑):返回键支持文本显示">
+      <created>1600666093022</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1600666093022</updated>
+    </task>
+    <task id="LOCAL-00088" summary="fix(逻辑):展开折叠文本控件支持水平和垂直两种布局">
+      <created>1600997476100</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1600997476101</updated>
+    </task>
+    <task id="LOCAL-00089" summary="fix(逻辑):展开折叠文本控件优化">
+      <created>1600997583114</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1600997583114</updated>
+    </task>
+    <task id="LOCAL-00090" summary="fix(逻辑):展开折叠文本控件优化">
+      <created>1601002237549</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1601002237549</updated>
+    </task>
+    <task id="LOCAL-00091" summary="fix(逻辑):优化展开折叠文本的取值范围">
+      <created>1601021360586</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021360586</updated>
+    </task>
+    <task id="LOCAL-00092" summary="fix(逻辑):开放自动折叠展开方法">
+      <created>1601022125269</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1601022125270</updated>
+    </task>
+    <task id="LOCAL-00093" summary="fix(逻辑):未登录弹窗提示">
+      <created>1601273077269</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1601273077270</updated>
+    </task>
+    <task id="LOCAL-00094" summary="fix(逻辑):未登录弹窗提示控制只显示一次">
+      <created>1601343347519</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1601343347520</updated>
+    </task>
+    <task id="LOCAL-00095" summary="jpush_flutter:修改git地址，解决不兼容问题">
+      <created>1603100114216</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1603100114216</updated>
+    </task>
+    <task id="LOCAL-00096" summary="feat(功能）：添加桌面图标显示未读数的工具类">
+      <created>1603869748181</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1603869748183</updated>
+    </task>
+    <task id="LOCAL-00097" summary="fix(插件）：pull_to_refresh升级到1.6.2，解决_pendingDimensions': is not true.问题">
+      <created>1604022768992</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1604022768993</updated>
+    </task>
+    <task id="LOCAL-00098" summary="fix(插件）：删除flutter_app_badge，会导致Android app 闪退">
+      <created>1604026883613</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1604026883621</updated>
+    </task>
+    <task id="LOCAL-00099" summary="添加获取用户json数据方法">
+      <created>1604305347398</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1604305347398</updated>
+    </task>
+    <task id="LOCAL-00100" summary="添加刷新token方法（有问题，在调试中）">
+      <created>1604394226635</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1604394226635</updated>
+    </task>
+    <task id="LOCAL-00101" summary="添加刷新token方法（有问题，在调试中）">
+      <created>1604453651005</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1604453651006</updated>
+    </task>
+    <task id="LOCAL-00102" summary="优化刷新token方法（有问题，在调试中）">
+      <created>1604467545848</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1604467545848</updated>
+    </task>
+    <task id="LOCAL-00103" summary="展开收起控件：优化样式">
+      <created>1604554093136</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1604554093136</updated>
+    </task>
+    <task id="LOCAL-00104" summary="展开收起控件：完善逻辑">
+      <created>1604554202095</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1604554202096</updated>
+    </task>
+    <task id="LOCAL-00105" summary="tipsdialog:支持自定义content组件">
+      <created>1604902085054</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1604902085055</updated>
+    </task>
+    <task id="LOCAL-00106" summary="刷新token逻辑优化：当前时间与失效时间在5分钟内刷新一次">
+      <created>1604910908979</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1604910908979</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="26" y="594" width="1280" height="709" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.41437802" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.32901135" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.32901135" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32901135" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32901135" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32901135" />
+      <window_info anchor="bottom" id="Compute Code Lines" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32901135" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" weight="0.32956383" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Flutter Performance" order="5" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(功能):取消请求" />
+    <MESSAGE value="fix(逻辑):注释代码" />
+    <MESSAGE value="fix(逻辑):完善取消请求逻辑；'登录数据无效'特殊处理" />
+    <MESSAGE value="fix(逻辑):audioplayers版本更新，解决ios报错：缺少初始化参数" />
+    <MESSAGE value="fix(逻辑):优化appbar标题显示：最多一行，以...结尾" />
+    <MESSAGE value="fix(逻辑):添加simpleappbar标题点击事件，样式；" />
+    <MESSAGE value="fix(逻辑):dio请求配置：是否忽略证书" />
+    <MESSAGE value="fix(逻辑):返回键支持文本显示" />
+    <MESSAGE value="fix(逻辑):展开折叠文本控件支持水平和垂直两种布局" />
+    <MESSAGE value="fix(逻辑):展开折叠文本控件优化" />
+    <MESSAGE value="fix(逻辑):优化展开折叠文本的取值范围" />
+    <MESSAGE value="fix(逻辑):开放自动折叠展开方法" />
+    <MESSAGE value="fix(逻辑):未登录弹窗提示" />
+    <MESSAGE value="fix(逻辑):未登录弹窗提示控制只显示一次" />
+    <MESSAGE value="jpush_flutter:修改git地址，解决不兼容问题" />
+    <MESSAGE value="feat(功能）：添加桌面图标显示未读数的工具类" />
+    <MESSAGE value="fix(插件）：pull_to_refresh升级到1.6.2，解决_pendingDimensions': is not true.问题" />
+    <MESSAGE value="fix(插件）：删除flutter_app_badge，会导致Android app 闪退" />
+    <MESSAGE value="添加获取用户json数据方法" />
+    <MESSAGE value="添加刷新token方法（有问题，在调试中）" />
+    <MESSAGE value="优化刷新token方法（有问题，在调试中）" />
+    <MESSAGE value="展开收起控件：优化样式" />
+    <MESSAGE value="展开收起控件：完善逻辑" />
+    <MESSAGE value="tipsdialog:支持自定义content组件" />
+    <MESSAGE value="刷新token逻辑优化：当前时间与失效时间在5分钟内刷新一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="刷新token逻辑优化：当前时间与失效时间在5分钟内刷新一次" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/tool/http/net.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock" />
+    <entry file="file://$PROJECT_DIR$/lib/widget/loading_dialog.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/progress_dialog.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/bin/cache/pkg/sky_engine/lib/core/num.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/gps_util.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/res/colors.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/constants/constant.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/http/error_handle.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/http/base_result_entity.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/map_util.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/text_field_util.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/applifecycle_util.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/ageutil.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/popup/popup_window.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/common_defined.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/toolbox.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/popup/show_nation_popup.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/popup/show_list_popup.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/bottom_sheet/bottom_sheet_scaffold.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-473">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/encode_utils.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-188">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/system_util.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/datetime.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/color_utils.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/clog.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-818" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/location_util.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/navigator_utils.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/time_util.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/utils.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1463" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/pixel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/pay/pay_manager.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/key_alive_widget.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/bin/cache/pkg/sky_engine/lib/async/future_impl.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/bin/cache/pkg/sky_engine/lib/async/future.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="808" column="35" lean-forward="true" selection-start-line="808" selection-start-column="35" selection-end-line="808" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/dio-3.0.10/lib/src/cancel_token.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util/base_lifecycle_effect.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/packages/flutter/lib/src/rendering/box.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="89" column="24" lean-forward="true" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/packages/flutter/lib/src/widgets/container.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="272" column="15" selection-start-line="272" selection-start-column="15" selection-end-line="272" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/simple_app_bar.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="91" column="16" lean-forward="true" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/dio-3.0.10/lib/src/options.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5168">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/flutter_app_badger-1.1.2/lib/flutter_app_badger.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/tool/app_badge_util.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/login_util.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/http/dio_utils.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="289" column="2" selection-start-line="289" selection-start-column="2" selection-end-line="289" selection-end-column="2" />
+          <folding>
+            <element signature="e#1#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/ExpandableText.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/widget/dialog/tips_dialog.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="174" column="6" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/log/log.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/http/login_result_info_entity.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tool/http/intercept.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="66" column="45" lean-forward="true" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

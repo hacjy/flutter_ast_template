@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml:5:22-73
+uses-sdk
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android/src/main/AndroidManifest.xml

@@ -1,0 +1,15 @@
+com/meituan/flutter_logan/FlutterLoganPlugin.java
+ com.meituan.flutter_logan.FlutterLoganPlugin
+ com.meituan.flutter_logan.FlutterLoganPlugin$1
+ com.meituan.flutter_logan.FlutterLoganPlugin$2
+ com.meituan.flutter_logan.FlutterLoganPlugin$3
+ com.meituan.flutter_logan.FlutterLoganPlugin$4
+ com.meituan.flutter_logan.FlutterLoganPlugin$5
+ com.meituan.flutter_logan.FlutterLoganPlugin$6
+com/meituan/flutter_logan/RealSendLogRunnable.java
+ com.meituan.flutter_logan.RealSendLogRunnable
+ com.meituan.flutter_logan.RealSendLogRunnable$1
+com/meituan/flutter_logan/BuildConfig.java
+ com.meituan.flutter_logan.BuildConfig
+com/meituan/flutter_logan/Utils.java
+ com.meituan.flutter_logan.Utils

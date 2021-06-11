@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/admin/Documents/worksapce/flutter_fast_template/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,166,220",
+                        "endColumns": "56,53,53,53",
+                        "endOffsets": "107,161,215,269"
+                    }
+                },
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/e2b18a691aae3e3517ff400d0ba336be/jetified-ucrop-2.2.6/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "274,328,382",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "323,377,424"
+                    }
+                }
+            ]
+        }
+    ]
+}

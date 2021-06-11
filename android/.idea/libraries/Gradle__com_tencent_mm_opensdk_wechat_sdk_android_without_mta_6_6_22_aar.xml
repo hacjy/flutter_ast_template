@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.6.22@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b25ed13e7266581a9d8015bd52b097c/jetified-wechat-sdk-android-without-mta-6.6.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/adb0ef67495b3466d00a2c80c16602e0/jetified-wechat-sdk-android-without-mta-6.6.22/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/adb0ef67495b3466d00a2c80c16602e0/jetified-wechat-sdk-android-without-mta-6.6.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/adb0ef67495b3466d00a2c80c16602e0/jetified-wechat-sdk-android-without-mta-6.6.22/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-without-mta/6.6.22/3ad14b3e8f576518c71793051a7f8f56d800e6da/wechat-sdk-android-without-mta-6.6.22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-without-mta/6.6.22/ddd6d236a4664fa54a6cfef90f06b467e61760db/wechat-sdk-android-without-mta-6.6.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

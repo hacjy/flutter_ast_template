@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlutterApp</string>
+
+    <string name="txt_face_certify_to_complete_hint">您还未实名认证，不能进行预约，请先进行人脸识别认证！</string>
+</resources>

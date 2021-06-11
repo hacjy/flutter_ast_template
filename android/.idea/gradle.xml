@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../toolbox/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/git/jpush-flutter-plugin-0b3fc9b3654818653f3390ed30ad9e06eb5cbef6/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.0/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bugly-0.3.2+1/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-1.0.0/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.2/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.4.0/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/fluwx-3.4.2/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.4.0/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.0+3/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-2.0.2/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.0.1/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/photo_manager-0.4.8/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.6/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/tobias-2.1.0/android" />
+            <option value="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.6/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:1:1-12:12
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:1:1-12:12
+	package
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:3:5-79
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:11:22-77
+uses-sdk
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml

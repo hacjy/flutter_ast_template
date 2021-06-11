@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jiguang.sdk:jcore:2.3.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c9a65e72219a61e9bed3a3d77d457d8/jetified-jcore-2.3.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/jars/libs/jcore-android-2.3.4.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiguang.sdk/jcore/2.3.4/4642a8c71f141c86ab6b1ceb226341d17883035/jcore-2.3.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jiguang.sdk/jcore/2.3.4/4642a8c71f141c86ab6b1ceb226341d17883035/jcore-2.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

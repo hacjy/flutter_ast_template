@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="top.huic.tencent_im_plugin" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+7-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:3:5-79
+7-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:3:22-76
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:4:5-67
+8-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:4:22-64
+9    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+9-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:5:5-76
+9-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:5:22-73
+10    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+10-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:6:5-81
+10-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:6:22-78
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:7:5-65
+11-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:7:22-62
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:8:5-71
+12-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:8:22-68
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+13-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:9:5-75
+13-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:9:22-72
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:6:5-81
+14-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:11:5-80
+15-->/Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/tencent_im_plugin-2.0.2/android/src/main/AndroidManifest.xml:11:22-77
+16
+17</manifest>

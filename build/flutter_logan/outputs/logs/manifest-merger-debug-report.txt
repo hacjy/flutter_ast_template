@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml:3:22-64
+uses-sdk
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_logan-1.0.2/android/src/main/AndroidManifest.xml

@@ -1,0 +1,1126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:1-105:12
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:1-105:12
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:1-105:12
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:1-105:12
+MERGED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:1-105:12
+MERGED from [:toolbox] /Users/admin/Documents/worksapce/flutter_fast_template/build/toolbox/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-60:12
+MERGED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/admin/Documents/worksapce/flutter_fast_template/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-46:12
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:audioplayers] /Users/admin/Documents/worksapce/flutter_fast_template/build/audioplayers/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider] /Users/admin/Documents/worksapce/flutter_fast_template/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:image_cropper] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-31:12
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:fluttertoast] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:flutter_logan] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_logan/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler] /Users/admin/Documents/worksapce/flutter_fast_template/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info] /Users/admin/Documents/worksapce/flutter_fast_template/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_image_compress] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_image_compress/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e172a2bbcd019924680923d096a026df/jetified-rxandroid-1.1.0/AndroidManifest.xml:15:1-21:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/17924a07f283af74ec023cfeec0fc80d/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.7.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/188850347c8e98bc74c9e2f9b8a4e36e/jetified-wechat-sdk-android-without-mta-6.7.4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] /Users/admin/.gradle/caches/transforms-2/files-2.1/e2b18a691aae3e3517ff400d0ba336be/jetified-ucrop-2.2.6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6a79d4d4ce507a51a1d7ffc2ec21ee4a/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [top.zibin:Luban:1.1.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/d46ce48cda5fd14d8e85aea4897c6807/jetified-Luban-1.1.8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a1251e176a0aa831b3e83b3846a724bc/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/8212d0b3d0c039c625bcbcd69990be69/jetified-core-ktx-1.6.0-beta02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/872ca3fc61f82576ab91e818622a95fc/heifwriter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca8450d0552e4bbd015aab65d4735464/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bed3ce57043177ac19bc7698bcbcd591/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/014b4fd3a86321a4a383a47577aeeaf2/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e461ff293040cf8235cd663446040e6f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c81a472f1e741d9ba872cfb3cd20ceb9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/da6620b9bc48bf5ee4250ed2d4243100/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/df8ecf557bdd6f82e851f110aa7e5bef/transition-1.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7b8a8a09dad60a5e89f33157a65dce0a/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5d46ae3c3bc1b72727d1042fed4397c9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/31e636660de7a70a8c70169a01b3097c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6f08dd0d2840d2a87019f03205248ed7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c9681820cefbffba475ee1f1635b097b/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5deccd5fc87a40d99612758fa0156e05/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/8e5375a27263550e78dde8efb2387044/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a7569f467fa87e6d31b38f6fe0b653d6/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c84399b7d41d35ff3a17a4aeb40694f6/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/cf33851c0b68ab053faa8b9471deed8b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6bc2f576503f74b401679a93422befca/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bbe86ef4079e04dccfe22eb39826cf6c/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/141b843ee0f1d9e5415888065885a992/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/828cec7cd81cd3aed3d3156583763c38/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ee62cc2054f782a126419a788ca31b2c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5bd4b2f330ee10ee3d5f3bda8e665ab4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/52196ac41bf2fb7cc27efac53557f75a/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f0e7042175a6d27c5b87b09724012b52/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/38e7ea33dc85c71bb384c2378f5b1a46/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/ae65f2a7121d828c47c96dad312c1e05/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e256ffc246fb0e02abdf892626a6299f/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/36a532698a1bd734af7e1bc2abe6b1e6/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c273b26e648d718fc4806a458b1e1695/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/302682d93129c63da9a172e62f7109fe/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9905c36032b6ac61a5aea5685ff9a410/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:2:1-184:12
+MERGED from [cn.jiguang.sdk:jcore:2.3.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/AndroidManifest.xml:2:1-14:12
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:2:1-66:12
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:2:1-42:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca800726ae959116c6a4cbbf2f2ce00f/jetified-nativecrashreport-3.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.dianping.android.sdk:logan:1.2.2] /Users/admin/.gradle/caches/transforms-2/files-2.1/f5edd4e75e006a2357fb8db49de73a11/jetified-logan-1.2.2/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:1-105:12
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:2:5-51
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:1-105:12
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:flutter_logan] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_logan/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:flutter_logan] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_logan/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:12:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:19:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:19:5-67
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:19:5-67
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:19:5-67
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:10:5-67
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+MERGED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-81
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:21:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:21:5-81
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:13:5-81
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-80
+MERGED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-80
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-80
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:22:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:34:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:13:5-79
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:13:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:25:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:25:5-79
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:20:5-79
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:20:5-79
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:11:5-79
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:36:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:11:5-75
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-75
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:20:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:12:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:35:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:13:5-76
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-76
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:14:5-76
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:14:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:26:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:26:5-76
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:21:5-76
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:21:5-76
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:12:5-76
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:15:5-90
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:29:5-91
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:29:5-91
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:15:22-88
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:16:5-86
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:16:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:17:5-87
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:17:22-84
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:19:5-71
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-71
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:20:5-65
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-65
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:20:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:24:22-65
+uses-permission#app.cfph.com.permission.JPUSH_MESSAGE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:27:5-77
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:27:22-74
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:28:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:18:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:28:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:30:5-84
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:24:5-84
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:30:22-81
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:33:5-85
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:37:5-85
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:37:5-85
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:33:22-82
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:34:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:33:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:33:5-78
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:34:22-75
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:35:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:38:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:38:5-89
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:35:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:36:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:39:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:37:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:40:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:37:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:38:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:32:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:32:5-66
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:38:22-63
+application
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:41:5-103:19
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-58:19
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-58:19
+MERGED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
+MERGED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-44:19
+MERGED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-44:19
+MERGED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-29:19
+MERGED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-29:19
+MERGED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:16:5-20:19
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:16:5-20:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bed3ce57043177ac19bc7698bcbcd591/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bed3ce57043177ac19bc7698bcbcd591/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f0e7042175a6d27c5b87b09724012b52/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f0e7042175a6d27c5b87b09724012b52/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/ae65f2a7121d828c47c96dad312c1e05/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/ae65f2a7121d828c47c96dad312c1e05/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:43:5-182:19
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:43:5-182:19
+MERGED from [cn.jiguang.sdk:jcore:2.3.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/AndroidManifest.xml:11:5-12:19
+MERGED from [cn.jiguang.sdk:jcore:2.3.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/AndroidManifest.xml:11:5-12:19
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:23:5-64:19
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:23:5-64:19
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:16:5-40:19
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:16:5-40:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:44:9-41
+	tools:targetApi
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-28
+	android:icon
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:45:9-51
+	android:networkSecurityConfig
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:46:9-69
+	android:usesCleartextTraffic
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:43:9-38
+activity#com.hacjy.flutter_fast_template.ui.MainActivity
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:50:9-86:20
+	android:launchMode
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:54:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:53:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:56:13-55
+	android:configChanges
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:52:13-144
+	android:theme
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:55:13-47
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:51:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:65:13-68:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:67:17-77
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:67:27-74
+intent-filter#data:host:health.faceback+data:scheme:czfph
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:70:13-75:29
+data
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:72:17-74:46
+	android:host
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:73:21-51
+	android:scheme
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:74:21-43
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:77:13-79:40
+	android:value
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:79:17-37
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:78:17-82
+meta-data#io.flutter.embedding.android.DrawableSplashScreen
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:80:13-82:66
+	android:resource
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:82:17-63
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:81:17-81
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:83:13-85:66
+	android:resource
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:85:17-63
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:84:17-81
+meta-data#flutterEmbedding
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:88:9-90:33
+	android:value
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:90:13-30
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:89:13-44
+activity#com.hacjy.flutter_fast_template.wxapi.WXEntryActivity
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:92:9-102:20
+	android:screenOrientation
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:95:13-49
+	android:launchMode
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:96:13-43
+	android:exported
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:94:13-36
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:93:13-81
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:97:13-101:29
+action#android.intent.action.VIEW
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:98:17-69
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:98:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:99:17-76
+	android:name
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:99:27-73
+uses-sdk
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml
+MERGED from [:toolbox] /Users/admin/Documents/worksapce/flutter_fast_template/build/toolbox/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:toolbox] /Users/admin/Documents/worksapce/flutter_fast_template/build/toolbox/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/admin/Documents/worksapce/flutter_fast_template/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/admin/Documents/worksapce/flutter_fast_template/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:tobias] /Users/admin/Documents/worksapce/flutter_fast_template/build/tobias/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:audioplayers] /Users/admin/Documents/worksapce/flutter_fast_template/build/audioplayers/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] /Users/admin/Documents/worksapce/flutter_fast_template/build/audioplayers/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-44
+MERGED from [:path_provider] /Users/admin/Documents/worksapce/flutter_fast_template/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/admin/Documents/worksapce/flutter_fast_template/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:image_cropper] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:tencent_im_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/tencent_im_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_logan] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_logan/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_logan] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_logan/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/admin/Documents/worksapce/flutter_fast_template/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/admin/Documents/worksapce/flutter_fast_template/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/admin/Documents/worksapce/flutter_fast_template/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/admin/Documents/worksapce/flutter_fast_template/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_image_compress] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_image_compress/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-9:55
+MERGED from [:flutter_image_compress] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_image_compress/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-9:55
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e172a2bbcd019924680923d096a026df/jetified-rxandroid-1.1.0/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e172a2bbcd019924680923d096a026df/jetified-rxandroid-1.1.0/AndroidManifest.xml:19:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/17924a07f283af74ec023cfeec0fc80d/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/17924a07f283af74ec023cfeec0fc80d/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.7.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/188850347c8e98bc74c9e2f9b8a4e36e/jetified-wechat-sdk-android-without-mta-6.7.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.7.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/188850347c8e98bc74c9e2f9b8a4e36e/jetified-wechat-sdk-android-without-mta-6.7.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] /Users/admin/.gradle/caches/transforms-2/files-2.1/e2b18a691aae3e3517ff400d0ba336be/jetified-ucrop-2.2.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] /Users/admin/.gradle/caches/transforms-2/files-2.1/e2b18a691aae3e3517ff400d0ba336be/jetified-ucrop-2.2.6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6a79d4d4ce507a51a1d7ffc2ec21ee4a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6a79d4d4ce507a51a1d7ffc2ec21ee4a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [top.zibin:Luban:1.1.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/d46ce48cda5fd14d8e85aea4897c6807/jetified-Luban-1.1.8/AndroidManifest.xml:7:5-9:41
+MERGED from [top.zibin:Luban:1.1.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/d46ce48cda5fd14d8e85aea4897c6807/jetified-Luban-1.1.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a1251e176a0aa831b3e83b3846a724bc/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a1251e176a0aa831b3e83b3846a724bc/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/8212d0b3d0c039c625bcbcd69990be69/jetified-core-ktx-1.6.0-beta02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/8212d0b3d0c039c625bcbcd69990be69/jetified-core-ktx-1.6.0-beta02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/872ca3fc61f82576ab91e818622a95fc/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/872ca3fc61f82576ab91e818622a95fc/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca8450d0552e4bbd015aab65d4735464/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca8450d0552e4bbd015aab65d4735464/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bed3ce57043177ac19bc7698bcbcd591/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bed3ce57043177ac19bc7698bcbcd591/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/014b4fd3a86321a4a383a47577aeeaf2/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/014b4fd3a86321a4a383a47577aeeaf2/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e461ff293040cf8235cd663446040e6f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e461ff293040cf8235cd663446040e6f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c81a472f1e741d9ba872cfb3cd20ceb9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c81a472f1e741d9ba872cfb3cd20ceb9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/da6620b9bc48bf5ee4250ed2d4243100/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/da6620b9bc48bf5ee4250ed2d4243100/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/df8ecf557bdd6f82e851f110aa7e5bef/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/df8ecf557bdd6f82e851f110aa7e5bef/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7b8a8a09dad60a5e89f33157a65dce0a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/7b8a8a09dad60a5e89f33157a65dce0a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5d46ae3c3bc1b72727d1042fed4397c9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5d46ae3c3bc1b72727d1042fed4397c9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/31e636660de7a70a8c70169a01b3097c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/31e636660de7a70a8c70169a01b3097c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6f08dd0d2840d2a87019f03205248ed7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6f08dd0d2840d2a87019f03205248ed7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c9681820cefbffba475ee1f1635b097b/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c9681820cefbffba475ee1f1635b097b/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5deccd5fc87a40d99612758fa0156e05/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5deccd5fc87a40d99612758fa0156e05/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/8e5375a27263550e78dde8efb2387044/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/8e5375a27263550e78dde8efb2387044/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a7569f467fa87e6d31b38f6fe0b653d6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a7569f467fa87e6d31b38f6fe0b653d6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c84399b7d41d35ff3a17a4aeb40694f6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c84399b7d41d35ff3a17a4aeb40694f6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/cf33851c0b68ab053faa8b9471deed8b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/cf33851c0b68ab053faa8b9471deed8b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6bc2f576503f74b401679a93422befca/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6bc2f576503f74b401679a93422befca/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bbe86ef4079e04dccfe22eb39826cf6c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bbe86ef4079e04dccfe22eb39826cf6c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/141b843ee0f1d9e5415888065885a992/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/141b843ee0f1d9e5415888065885a992/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/828cec7cd81cd3aed3d3156583763c38/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/828cec7cd81cd3aed3d3156583763c38/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ee62cc2054f782a126419a788ca31b2c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ee62cc2054f782a126419a788ca31b2c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5bd4b2f330ee10ee3d5f3bda8e665ab4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5bd4b2f330ee10ee3d5f3bda8e665ab4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/52196ac41bf2fb7cc27efac53557f75a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/52196ac41bf2fb7cc27efac53557f75a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f0e7042175a6d27c5b87b09724012b52/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f0e7042175a6d27c5b87b09724012b52/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/38e7ea33dc85c71bb384c2378f5b1a46/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/38e7ea33dc85c71bb384c2378f5b1a46/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/ae65f2a7121d828c47c96dad312c1e05/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/ae65f2a7121d828c47c96dad312c1e05/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e256ffc246fb0e02abdf892626a6299f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/e256ffc246fb0e02abdf892626a6299f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/36a532698a1bd734af7e1bc2abe6b1e6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/36a532698a1bd734af7e1bc2abe6b1e6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c273b26e648d718fc4806a458b1e1695/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/c273b26e648d718fc4806a458b1e1695/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/302682d93129c63da9a172e62f7109fe/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/302682d93129c63da9a172e62f7109fe/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9905c36032b6ac61a5aea5685ff9a410/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/9905c36032b6ac61a5aea5685ff9a410/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:2.3.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:2.3.4] /Users/admin/.gradle/caches/transforms-2/files-2.1/1bf19b2b52c438761cb8d3453a14534e/jetified-jcore-2.3.4/AndroidManifest.xml:7:5-9:41
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:8:5-10:41
+MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:8:5-10:41
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca800726ae959116c6a4cbbf2f2ce00f/jetified-nativecrashreport-3.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca800726ae959116c6a4cbbf2f2ce00f/jetified-nativecrashreport-3.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.dianping.android.sdk:logan:1.2.2] /Users/admin/.gradle/caches/transforms-2/files-2.1/f5edd4e75e006a2357fb8db49de73a11/jetified-logan-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.dianping.android.sdk:logan:1.2.2] /Users/admin/.gradle/caches/transforms-2/files-2.1/f5edd4e75e006a2357fb8db49de73a11/jetified-logan-1.2.2/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_image_compress] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_image_compress/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
+activity#com.jarvan.fluwx.wxapi.FluwxWXEntryActivity
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-17:58
+	android:launchMode
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-44
+	android:theme
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-55
+	android:taskAffinity
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-52
+	android:name
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+activity-alias#${applicationId}.wxapi.WXPayEntryActivity
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-32:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-48
+	android:exported
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-81
+	android:theme
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-69
+activity-alias#com.hacjy.flutter_fast_template.wxapi.WXPayEntryActivity
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-32:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-48
+	android:exported
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-81
+	android:theme
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:sdksample
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-31:29
+activity-alias#${applicationId}.wxapi.WXEntryActivity
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-47:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-81
+	android:theme
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-55
+	android:taskAffinity
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-66
+activity-alias#com.hacjy.flutter_fast_template.wxapi.WXEntryActivity
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-47:26
+	android:launchMode
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-36
+	android:targetActivity
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-81
+	android:theme
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-55
+	android:taskAffinity
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-66
+provider#com.jarvan.fluwx.FluwxFileProvider
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:49:9-57:20
+	android:grantUriPermissions
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-47
+	android:authorities
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-65
+	android:exported
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-56:69
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:30:13-33:49
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:30:13-33:49
+	android:resource
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:56:17-66
+	tools:replace
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:33:17-46
+	android:name
+		ADDED from [:fluwx] /Users/admin/Documents/worksapce/flutter_fast_template/build/fluwx/intermediates/library_manifest/debug/AndroidManifest.xml:55:17-67
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] /Users/admin/Documents/worksapce/flutter_fast_template/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE 
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-92
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-89
+receiver#com.jiguang.jpush.JPushPlugin$JPushReceiver
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-24:20
+	android:enabled
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+intent-filter#action:name:cn.jpush.android.intent.CONNECTION+action:name:cn.jpush.android.intent.MESSAGE_RECEIVED+action:name:cn.jpush.android.intent.NOTIFICATION_CLICK_ACTION+action:name:cn.jpush.android.intent.NOTIFICATION_OPENED+action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED+action:name:cn.jpush.android.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-23:29
+intent-filter#action:name:cn.jpush.android.intent.CONNECTION+action:name:cn.jpush.android.intent.MESSAGE_RECEIVED+action:name:cn.jpush.android.intent.NOTIFICATION_CLICK_ACTION+action:name:cn.jpush.android.intent.NOTIFICATION_OPENED+action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED+action:name:cn.jpush.android.intent.REGISTRATION+category:name:com.hacjy.flutter_fast_template
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-23:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:15:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-83
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:16:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-88
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-86
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:18:25-83
+action#cn.jpush.android.intent.NOTIFICATION_CLICK_ACTION
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-92
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:19:25-89
+action#cn.jpush.android.intent.CONNECTION
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-74
+category#${applicationId}
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-61
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:22:27-58
+category#com.hacjy.flutter_fast_template
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-61
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:22:27-58
+receiver#com.jiguang.jpush.JPushEventReceiver
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:25:19-70
+intent-filter#action:name:cn.jpush.android.intent.RECEIVE_MESSAGE+category:name:${applicationId}
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-30:29
+intent-filter#action:name:cn.jpush.android.intent.RECEIVE_MESSAGE+category:name:com.hacjy.flutter_fast_template
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-30:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:27:25-79
+service#com.jiguang.jpush.JPushCustomService
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-43:19
+	android:process
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-40
+	android:enabled
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-64
+intent-filter#action:name:cn.jiguang.user.service.action
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-42:29
+action#cn.jiguang.user.service.action
+ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:41:17-73
+	android:name
+		ADDED from [:jpush_flutter] /Users/admin/Documents/worksapce/flutter_fast_template/build/jpush_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:41:25-70
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-62
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [:photo_manager] /Users/admin/Documents/worksapce/flutter_fast_template/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-77
+activity#com.tencent.bugly.beta.ui.BetaActivity
+ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-14:64
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:19:9-23:56
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:19:9-23:56
+	android:configChanges
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-81
+	android:theme
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-61
+	tools:replace
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-66
+provider#com.tencent.bugly.beta.utils.BuglyFileProvider
+ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:20:9-28:20
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:24:9-34:20
+MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:24:9-34:20
+	android:grantUriPermissions
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-47
+	android:authorities
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-64
+	android:exported
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-37
+	tools:replace
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-74
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/admin/Documents/worksapce/flutter_fast_template/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:11:22-78
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:12:5-14:47
+	android:protectionLevel
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:13:9-65
+permission#com.hacjy.flutter_fast_template.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:12:5-14:47
+	android:protectionLevel
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:13:9-65
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:17:22-78
+uses-permission#com.hacjy.flutter_fast_template.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:23:22-70
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:41:5-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:41:22-74
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:46:9-57:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:47:13-62
+intent-filter#action:name:cn.jpush.android.ui.PopWinActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:50:13-56:29
+intent-filter#action:name:cn.jpush.android.ui.PopWinActivity+category:name:android.intent.category.DEFAULT+category:name:com.hacjy.flutter_fast_template
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:50:13-56:29
+action#cn.jpush.android.ui.PopWinActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:53:25-74
+category#${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:55:17-61
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:55:27-58
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:60:9-71:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:63:13-36
+	android:configChanges
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:62:13-63
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:64:13-60
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:61:13-60
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:65:13-70:29
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:android.intent.category.DEFAULT+category:name:com.hacjy.flutter_fast_template
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:65:13-70:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:66:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:66:25-72
+service#cn.jpush.android.service.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:74:9-85:19
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:78:13-40
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:76:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:77:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:75:13-64
+intent-filter#action:name:cn.jpush.android.intent.PUSH_TIME+action:name:cn.jpush.android.intent.PushService+action:name:cn.jpush.android.intent.REGISTER+action:name:cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:79:13-84:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:80:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:80:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:81:17-73
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:81:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:82:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:82:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:83:17-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:83:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:89:9-98:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:91:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:92:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:90:13-66
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:93:13-97:29
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:com.hacjy.flutter_fast_template
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:93:13-97:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:94:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:94:25-77
+activity#cn.jpush.android.service.DActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:100:9-111:20
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:102:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:103:13-36
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:105:13-72
+	android:taskAffinity
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:104:13-48
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:101:13-62
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:106:13-110:29
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:com.hacjy.flutter_fast_template
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:106:13-110:29
+action#cn.jpush.android.intent.DActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:107:17-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:107:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:114:9-132:20
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:116:13-35
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:115:13-65
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:117:13-120:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:117:28-51
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:com.hacjy.flutter_fast_template
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:117:13-120:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:117:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:118:17-94
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:118:25-91
+intent-filter#action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:121:13-124:29
+action#android.intent.action.USER_PRESENT
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:122:17-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:122:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:123:17-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:123:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:126:13-131:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:127:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:127:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:128:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:128:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:135:9-137:40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:137:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:136:13-66
+receiver#cn.jpush.android.service.SchedulerReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:141:9-143:40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:143:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:142:13-70
+service#cn.jpush.android.service.MessagingIntentService
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:146:9-83
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:146:18-80
+provider#cn.jpush.android.service.DataProvider
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:149:9-153:43
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:153:13-40
+	android:authorities
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:151:13-64
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:152:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:150:13-65
+provider#cn.jpush.android.service.DownloadProvider
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:155:9-158:39
+	android:authorities
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:157:13-68
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:158:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:156:13-69
+activity#cn.jpush.android.service.JNotifyActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:161:9-171:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:163:13-36
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:165:13-72
+	android:taskAffinity
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:164:13-48
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:162:13-68
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:${applicationId}
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:166:13-170:29
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:com.hacjy.flutter_fast_template
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:166:13-170:29
+action#cn.jpush.android.intent.JNotifyActivity
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:167:17-82
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:167:25-79
+receiver#cn.jpush.android.asus.AsusPushMessageReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:173:9-82
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:173:19-79
+meta-data#JPUSH_CHANNEL
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:175:9-177:48
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:177:13-45
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:176:13-41
+meta-data#JPUSH_APPKEY
+ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:178:9-180:47
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:180:13-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.8.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/5a34d9bd14a0297b1431d07c7f2135b5/jetified-jpush-3.8.0/AndroidManifest.xml:179:13-40
+supports-screens
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:12:5-17:39
+	android:largeScreens
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:15:9-37
+	android:resizeable
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:16:9-34
+	android:anyDensity
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:13:9-34
+uses-library#org.apache.http.legacy
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:24:9-26:40
+	android:required
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:25:13-50
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:28:9-32:20
+	android:exported
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:31:13-37
+	android:configChanges
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:29:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:33:9-37:20
+	android:exported
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:36:13-37
+	android:configChanges
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:34:13-61
+activity#com.alipay.sdk.app.PayResultActivity
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:38:9-44:20
+	android:launchMode
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:42:13-48
+	android:exported
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:41:13-36
+	android:configChanges
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:40:13-74
+	android:theme
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:43:13-72
+	android:name
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:39:13-64
+activity#com.alipay.sdk.app.AlipayResultActivity
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:45:9-50:20
+	android:launchMode
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:48:13-44
+	android:exported
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:47:13-36
+	android:theme
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:49:13-72
+	android:name
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:46:13-67
+activity#com.alipay.sdk.app.H5OpenAuthActivity
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:51:9-57:20
+	android:screenOrientation
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:55:13-47
+	android:windowSoftInputMode
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:56:13-67
+	android:exported
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:54:13-37
+	android:configChanges
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:53:13-85
+	android:name
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:52:13-65
+activity#com.alipay.sdk.app.APayEntranceActivity
+ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:58:9-63:20
+	android:exported
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:61:13-37
+	android:configChanges
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:60:13-85
+	android:theme
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:62:13-72
+	android:name
+		ADDED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/caches/transforms-2/files-2.1/3dcdd3a4ea05cea196bb220dfc6c6480/jetified-alipaysdk-noutdid-15.8.01.201215151847/AndroidManifest.xml:59:13-67
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:14:22-80
+activity#com.tencent.bugly.beta.ui.BetaActiveAlertActivity
+ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:17:9-86
+	android:name
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:17:19-83
+service#com.tencent.bugly.beta.tinker.TinkerResultService
+ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:36:9-39:72
+	android:exported
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:38:13-37
+	android:permission
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:37:13-77

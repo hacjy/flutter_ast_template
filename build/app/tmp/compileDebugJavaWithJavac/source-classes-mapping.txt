@@ -1,0 +1,103 @@
+com/hacjy/flutter_fast_template/util/SharedPreUtil.java
+ com.hacjy.flutter_fast_template.util.SharedPreUtil
+com/hacjy/flutter_fast_template/widget/IInitView.java
+ com.hacjy.flutter_fast_template.widget.IInitView
+com/hacjy/flutter_fast_template/tool/http/ApiUrl.java
+ com.hacjy.flutter_fast_template.tool.http.ApiUrl
+com/hacjy/flutter_fast_template/tool/http/ApiService.java
+ com.hacjy.flutter_fast_template.tool.http.ApiService
+com/hacjy/flutter_fast_template/MyApplication.java
+ com.hacjy.flutter_fast_template.MyApplication
+ com.hacjy.flutter_fast_template.MyApplication$1
+com/hacjy/flutter_fast_template/widget/LoadingDialog.java
+ com.hacjy.flutter_fast_template.widget.LoadingDialog
+ com.hacjy.flutter_fast_template.widget.LoadingDialog$1
+ com.hacjy.flutter_fast_template.widget.LoadingDialog$ILoadingCallBack
+com/hacjy/flutter_fast_template/util/MapUtil.java
+ com.hacjy.flutter_fast_template.util.MapUtil
+com/hacjy/flutter_fast_template/widget/CommonDialog.java
+ com.hacjy.flutter_fast_template.widget.CommonDialog
+ com.hacjy.flutter_fast_template.widget.CommonDialog$1
+ com.hacjy.flutter_fast_template.widget.CommonDialog$2
+ com.hacjy.flutter_fast_template.widget.CommonDialog$OnClickCallback
+com/hacjy/flutter_fast_template/util/SharepreferenceUtil.java
+ com.hacjy.flutter_fast_template.util.SharepreferenceUtil
+com/hacjy/flutter_fast_template/bean/FaceCertifyRequestInfo.java
+ com.hacjy.flutter_fast_template.bean.FaceCertifyRequestInfo
+ com.hacjy.flutter_fast_template.bean.FaceCertifyRequestInfo$1
+com/hacjy/flutter_fast_template/tool/http/NoJsonLoadResponseBodyConverter.java
+ com.hacjy.flutter_fast_template.tool.http.NoJsonLoadResponseBodyConverter
+com/hacjy/flutter_fast_template/tool/http/RetrofitUtil.java
+ com.hacjy.flutter_fast_template.tool.http.RetrofitUtil
+com/hacjy/flutter_fast_template/util/StringUtil.java
+ com.hacjy.flutter_fast_template.util.StringUtil
+com/hacjy/flutter_fast_template/tool/http/LoadApiServiceHelper.java
+ com.hacjy.flutter_fast_template.tool.http.LoadApiServiceHelper
+ com.hacjy.flutter_fast_template.tool.http.LoadApiServiceHelper$1
+com/hacjy/flutter_fast_template/bean/FaceCertifyInfo.java
+ com.hacjy.flutter_fast_template.bean.FaceCertifyInfo
+ com.hacjy.flutter_fast_template.bean.FaceCertifyInfo$1
+com/hacjy/flutter_fast_template/tool/http/ResultInfo.java
+ com.hacjy.flutter_fast_template.tool.http.ResultInfo
+ com.hacjy.flutter_fast_template.tool.http.ResultInfo$1
+com/hacjy/flutter_fast_template/wxapi/WXEntryActivity.java
+ com.hacjy.flutter_fast_template.wxapi.WXEntryActivity
+com/hacjy/flutter_fast_template/util/ScreenUtil.java
+ com.hacjy.flutter_fast_template.util.ScreenUtil
+com/hacjy/flutter_fast_template/plugins/FlutterCustomPlugin.java
+ com.hacjy.flutter_fast_template.plugins.FlutterCustomPlugin
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/hacjy/flutter_fast_template/BuildConfig.java
+ com.hacjy.flutter_fast_template.BuildConfig
+com/hacjy/flutter_fast_template/tool/AliFaceCertifyTool.java
+ com.hacjy.flutter_fast_template.tool.AliFaceCertifyTool
+ com.hacjy.flutter_fast_template.tool.AliFaceCertifyTool$1
+ com.hacjy.flutter_fast_template.tool.AliFaceCertifyTool$2
+ com.hacjy.flutter_fast_template.tool.AliFaceCertifyTool$3
+ com.hacjy.flutter_fast_template.tool.AliFaceCertifyTool$4
+com/hacjy/flutter_fast_template/tool/http/MyTransformerUtil.java
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$1
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$2
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$3
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$4
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$5
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$6
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$6$1
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$6$2
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$7
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$7$1
+ com.hacjy.flutter_fast_template.tool.http.MyTransformerUtil$7$2
+com/hacjy/flutter_fast_template/tool/http/NoJsonLoadConverterFactory.java
+ com.hacjy.flutter_fast_template.tool.http.NoJsonLoadConverterFactory
+com/hacjy/flutter_fast_template/util/JsonUtil.java
+ com.hacjy.flutter_fast_template.util.JsonUtil
+ com.hacjy.flutter_fast_template.util.JsonUtil$1
+ com.hacjy.flutter_fast_template.util.JsonUtil$2
+ com.hacjy.flutter_fast_template.util.JsonUtil$ParameterizedTypeImpl
+com/hacjy/flutter_fast_template/tool/WXManager.java
+ com.hacjy.flutter_fast_template.tool.WXManager
+com/hacjy/flutter_fast_template/tool/http/DealException.java
+ com.hacjy.flutter_fast_template.tool.http.DealException
+com/hacjy/flutter_fast_template/tool/http/ApiExection.java
+ com.hacjy.flutter_fast_template.tool.http.ApiExection
+com/hacjy/flutter_fast_template/tool/http/ApiThrowable.java
+ com.hacjy.flutter_fast_template.tool.http.ApiThrowable
+com/hacjy/flutter_fast_template/tool/http/SSLSocketClient.java
+ com.hacjy.flutter_fast_template.tool.http.SSLSocketClient
+ com.hacjy.flutter_fast_template.tool.http.SSLSocketClient$1
+ com.hacjy.flutter_fast_template.tool.http.SSLSocketClient$2
+com/hacjy/flutter_fast_template/plugins/FlutterNativePlugin.java
+ com.hacjy.flutter_fast_template.plugins.FlutterNativePlugin
+com/hacjy/flutter_fast_template/tool/http/HttpUtil.java
+ com.hacjy.flutter_fast_template.tool.http.HttpUtil
+com/hacjy/flutter_fast_template/widget/BaseDialog.java
+ com.hacjy.flutter_fast_template.widget.BaseDialog
+com/hacjy/flutter_fast_template/util/ToastUtil.java
+ com.hacjy.flutter_fast_template.util.ToastUtil
+com/hacjy/flutter_fast_template/util/CLog.java
+ com.hacjy.flutter_fast_template.util.CLog
+com/hacjy/flutter_fast_template/ui/MainActivity.java
+ com.hacjy.flutter_fast_template.ui.MainActivity
+ com.hacjy.flutter_fast_template.ui.MainActivity$1
