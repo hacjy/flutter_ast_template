@@ -53,11 +53,14 @@ androidx/annotation/MenuRes.class
 androidx/annotation/NavigationRes.class
 androidx/annotation/NonNull.class
 androidx/annotation/Nullable.class
+androidx/annotation/OptIn.class
 androidx/annotation/PluralsRes.class
 androidx/annotation/Px.class
 androidx/annotation/RawRes.class
 androidx/annotation/RequiresApi.class
 androidx/annotation/RequiresFeature.class
+androidx/annotation/RequiresOptIn$Level.class
+androidx/annotation/RequiresOptIn.class
 androidx/annotation/RequiresPermission$Read.class
 androidx/annotation/RequiresPermission$Write.class
 androidx/annotation/RequiresPermission.class
@@ -73,6 +76,9 @@ androidx/annotation/UiThread.class
 androidx/annotation/VisibleForTesting.class
 androidx/annotation/WorkerThread.class
 androidx/annotation/XmlRes.class
+androidx/annotation/experimental/Experimental$Level.class
+androidx/annotation/experimental/Experimental.class
+androidx/annotation/experimental/UseExperimental.class
 androidx/appcompat/app/ActionBar$DisplayOptions.class
 androidx/appcompat/app/ActionBar$NavigationMode.class
 androidx/appcompat/app/AppCompatDelegate$NightMode.class
@@ -101,6 +107,7 @@ androidx/core/content/res/FontResourcesParserCompat$FetchStrategy.class
 androidx/core/graphics/drawable/IconCompat$IconType.class
 androidx/core/location/GnssStatusCompat$ConstellationType.class
 androidx/core/net/ConnectivityManagerCompat$RestrictBackgroundStatus.class
+androidx/core/os/BuildCompat$PrereleaseSdkCheck.class
 androidx/core/os/TraceKt.class
 androidx/core/provider/FontsContractCompat$FontRequestCallback$FontRequestFailReason.class
 androidx/core/text/util/LinkifyCompat$LinkifyMask.class

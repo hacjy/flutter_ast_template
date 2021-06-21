@@ -32,7 +32,7 @@ MERGED from [com.github.yalantis:ucrop:2.2.6] /Users/admin/.gradle/caches/transf
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6a79d4d4ce507a51a1d7ffc2ec21ee4a/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [top.zibin:Luban:1.1.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/d46ce48cda5fd14d8e85aea4897c6807/jetified-Luban-1.1.8/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a1251e176a0aa831b3e83b3846a724bc/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/8212d0b3d0c039c625bcbcd69990be69/jetified-core-ktx-1.6.0-beta02/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/50e9c888024c2073ffff79c108c07a7c/jetified-core-ktx-1.6.0-rc01/AndroidManifest.xml:2:1-9:12
 MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/872ca3fc61f82576ab91e818622a95fc/heifwriter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca8450d0552e4bbd015aab65d4735464/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -54,7 +54,7 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/admin/.g
 MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/cf33851c0b68ab053faa8b9471deed8b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6bc2f576503f74b401679a93422befca/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bbe86ef4079e04dccfe22eb39826cf6c/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.core:core:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/076f03f475a526bc6bad7d47cc0b161f/core-1.6.0-rc01/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/141b843ee0f1d9e5415888065885a992/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/828cec7cd81cd3aed3d3156583763c38/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ee62cc2054f782a126419a788ca31b2c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
@@ -74,6 +74,7 @@ MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/cach
 MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:2:1-42:12
 MERGED from [com.tencent.bugly:nativecrashreport:3.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca800726ae959116c6a4cbbf2f2ce00f/jetified-nativecrashreport-3.9.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.dianping.android.sdk:logan:1.2.2] /Users/admin/.gradle/caches/transforms-2/files-2.1/f5edd4e75e006a2357fb8db49de73a11/jetified-logan-1.2.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b49f327f03b373d7ebbba6c09076bbb2/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -312,8 +313,8 @@ MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transfo
 MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:16:5-20:19
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bed3ce57043177ac19bc7698bcbcd591/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bed3ce57043177ac19bc7698bcbcd591/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
-MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/076f03f475a526bc6bad7d47cc0b161f/core-1.6.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/076f03f475a526bc6bad7d47cc0b161f/core-1.6.0-rc01/AndroidManifest.xml:24:5-89
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f0e7042175a6d27c5b87b09724012b52/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/f0e7042175a6d27c5b87b09724012b52/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-2/files-2.1/ae65f2a7121d828c47c96dad312c1e05/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
@@ -327,7 +328,7 @@ MERGED from [:alipaysdk-noutdid-15.8.01.201215151847:] /Users/admin/.gradle/cach
 MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:16:5-40:19
 MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/604c633c0fb6f640490c9b4a3b7ab1e1/jetified-crashreport_upgrade-1.5.0/AndroidManifest.xml:16:5-40:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/076f03f475a526bc6bad7d47cc0b161f/core-1.6.0-rc01/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:18:9-35
 	android:label
@@ -335,7 +336,7 @@ MERGED from [com.tencent.bugly:crashreport_upgrade:1.5.0] /Users/admin/.gradle/c
 	tools:targetApi
 		ADDED from [:flutter_bugly] /Users/admin/Documents/worksapce/flutter_fast_template/build/flutter_bugly/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-28
 	android:icon
-		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:45:9-51
+		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:45:9-36
 	android:networkSecurityConfig
 		ADDED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/main/AndroidManifest.xml:46:9-69
 	android:usesCleartextTraffic
@@ -476,8 +477,8 @@ MERGED from [top.zibin:Luban:1.1.8] /Users/admin/.gradle/caches/transforms-2/fil
 MERGED from [top.zibin:Luban:1.1.8] /Users/admin/.gradle/caches/transforms-2/files-2.1/d46ce48cda5fd14d8e85aea4897c6807/jetified-Luban-1.1.8/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a1251e176a0aa831b3e83b3846a724bc/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/a1251e176a0aa831b3e83b3846a724bc/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/8212d0b3d0c039c625bcbcd69990be69/jetified-core-ktx-1.6.0-beta02/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/8212d0b3d0c039c625bcbcd69990be69/jetified-core-ktx-1.6.0-beta02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/50e9c888024c2073ffff79c108c07a7c/jetified-core-ktx-1.6.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/50e9c888024c2073ffff79c108c07a7c/jetified-core-ktx-1.6.0-rc01/AndroidManifest.xml:5:5-7:41
 MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:7:5-9:41
 MERGED from [com.tencent.imsdk:imsdk:5.1.50] /Users/admin/.gradle/caches/transforms-2/files-2.1/819e7141d7ffb66277b9f3ba9a28cf11/jetified-imsdk-5.1.50/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.heifwriter:heifwriter:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/872ca3fc61f82576ab91e818622a95fc/heifwriter-1.0.0/AndroidManifest.xml:20:5-44
@@ -520,8 +521,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/6bc2f576503f74b401679a93422befca/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bbe86ef4079e04dccfe22eb39826cf6c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/bbe86ef4079e04dccfe22eb39826cf6c/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0-beta02] /Users/admin/.gradle/caches/transforms-2/files-2.1/3aabe6673021227583647e9124ef0807/core-1.6.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/076f03f475a526bc6bad7d47cc0b161f/core-1.6.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0-rc01] /Users/admin/.gradle/caches/transforms-2/files-2.1/076f03f475a526bc6bad7d47cc0b161f/core-1.6.0-rc01/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/141b843ee0f1d9e5415888065885a992/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/141b843ee0f1d9e5415888065885a992/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/828cec7cd81cd3aed3d3156583763c38/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -560,6 +561,8 @@ MERGED from [com.tencent.bugly:nativecrashreport:3.9.0] /Users/admin/.gradle/cac
 MERGED from [com.tencent.bugly:nativecrashreport:3.9.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ca800726ae959116c6a4cbbf2f2ce00f/jetified-nativecrashreport-3.9.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.dianping.android.sdk:logan:1.2.2] /Users/admin/.gradle/caches/transforms-2/files-2.1/f5edd4e75e006a2357fb8db49de73a11/jetified-logan-1.2.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.dianping.android.sdk:logan:1.2.2] /Users/admin/.gradle/caches/transforms-2/files-2.1/f5edd4e75e006a2357fb8db49de73a11/jetified-logan-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b49f327f03b373d7ebbba6c09076bbb2/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b49f327f03b373d7ebbba6c09076bbb2/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/admin/Documents/worksapce/flutter_fast_template/android/app/src/debug/AndroidManifest.xml
 	tools:overrideLibrary
