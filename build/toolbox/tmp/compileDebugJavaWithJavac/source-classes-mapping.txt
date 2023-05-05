@@ -1,2 +1,0 @@
-com/ylzbtech/flutter/toolbox/BuildConfig.java
- com.ylzbtech.flutter.toolbox.BuildConfig

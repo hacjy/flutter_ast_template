@@ -1,2 +1,0 @@
-com/jarvan/tobias/BuildConfig.java
- com.jarvan.tobias.BuildConfig
